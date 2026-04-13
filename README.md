@@ -230,7 +230,7 @@ SELECT lp.lp_name,
 FROM commitment c
 JOIN limited_partner lp ON c.lp_id = lp.lp_id
 GROUP BY lp.lp_name;
-``
+```
 
 ## 🧪 Future Enhancements
 
@@ -246,7 +246,8 @@ GROUP BY lp.lp_name;
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: ryanconquers
+- GitHub: ryanconquers (https://github.com/ryanconquers/Polyglot-Capital-Intelligence/edit/main/README.md)
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -258,7 +259,7 @@ MIT License — free for academic and commercial use.
 
 ## 🙏 Acknowledgments
 
-- DBMS course instructor:Dr.Asha Rawat
+- DBMS course instructor: Dr.Asha Rawat
 - Open-source contributors (Express, React, MySQL)
 
 ---
